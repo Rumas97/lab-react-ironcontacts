@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+img{
+  height: 200px;
+  width: 130px;
+}
+
+.App ul{
+  list-style-type: none;
+}
